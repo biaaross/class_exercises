@@ -46,6 +46,7 @@ void video::play()  {
              <<fileName
              <<"Resolition 1080p"<<std::endl;
 }
+};
 
 
 int main() {
@@ -62,6 +63,6 @@ int main() {
 
     delete m;
 
-    return 0;
-}
+   
+return 0;
 }
